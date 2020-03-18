@@ -1,0 +1,15 @@
+.character-card {
+  width: 25%;
+  padding: 20px;
+  border: 1px solid gray;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.image {
+  width: 75%;
+}
+
+h3 {
+  text-align: center;
+}
